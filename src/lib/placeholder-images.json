@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A stylish and modern beauty salon interior.",
+      "imageUrl": "https://images.unsplash.com/photo-1600948836101-f9ffda59d250?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzYWxvbiUyMGludGVyaW9yfGVufDB8fHx8MTc3MTYzOTQ4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "salon interior"
+    },
+    {
+      "id": "gallery1",
+      "description": "A close-up of a flawless manicure.",
+      "imageUrl": "https://images.unsplash.com/photo-1771441580126-748bff7a9565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW5pY3VyZSUyMG5haWxzfGVufDB8fHx8MTc3MTU4NTIwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "manicure nails"
+    },
+    {
+      "id": "gallery2",
+      "description": "A person receiving a relaxing facial treatment.",
+      "imageUrl": "https://images.unsplash.com/photo-1643684391140-c5056cfd3436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYWNpYWwlMjB0cmVhdG1lbnR8ZW58MHx8fHwxNzcxNjczMDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "facial treatment"
+    },
+    {
+      "id": "gallery3",
+      "description": "A stylish haircut being finished by a hairdresser.",
+      "imageUrl": "https://images.unsplash.com/photo-1599387737838-660b75526801?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGFpcmN1dCUyMHN0eWxlfGVufDB8fHx8MTc3MTY3MTM3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "haircut style"
+    },
+    {
+      "id": "gallery4",
+      "description": "A vibrant hair color transformation.",
+      "imageUrl": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoYWlyJTIwY29sb3J8ZW58MHx8fHwxNzcxNTczODk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hair color"
+    }
+  ]
 }
