@@ -65,8 +65,7 @@ export default function AppointmentForm() {
       const result = await submitAppointment(data);
       if (result.success) {
         toast({
-          title: 'Randevu Başarılı!',
-          description: 'Randevunuz başarıyla alınmıştır. Sizinle en kısa sürede iletişime geçeceğiz.',
+          title: 'Randevunuz alındı!',
         });
         form.reset();
       } else {

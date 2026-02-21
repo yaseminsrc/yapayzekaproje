@@ -21,10 +21,7 @@ export async function submitAppointment(data: AppointmentData) {
     return { success: false, error: 'Geçersiz veri.' };
   }
 
-  const webhookUrl = process.env.N8N_WEBHOOK_URL || '[N8N WEBHOOK URL]';
-  if (webhookUrl === '[N8N WEBHOOK URL]') {
-     console.warn('N8N_WEBHOOK_URL is not set. Using placeholder.');
-  }
+  const webhookUrl = 'https://srysmn.app.n8n.cloud/webhook-test/c4b7997f-5c9c-43b6-9e73-47d1748fc255';
 
   const payload = {
     ...parsedData.data,
