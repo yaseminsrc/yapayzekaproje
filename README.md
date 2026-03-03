@@ -1,5 +1,14 @@
-# Firebase Studio
+# AI Proje - Güzellik Randevu Sistemi
 
-This is a NextJS starter in Firebase Studio.
+## Canlı Site
+https://yapayzekaproje.vercel.app/
 
-To get started, take a look at src/app/page.tsx.
+## Projeler
+### 1. Güzellik Randevu Sitesi
+- Firebase Studio + n8n otomasyonu
+- Google Sheets entegrasyonu
+- Otomatik onay ve hatırlatma maili
+
+## n8n Workflow'ları
+- randevu-onay.json
+- randevu-hatirlatma.json
