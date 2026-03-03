@@ -10,5 +10,5 @@ https://yapayzekaproje.vercel.app/
 - Otomatik onay ve hatırlatma maili
 
 ## n8n Workflow'ları
-- randevu-onay.json
-- randevu-hatirlatma.json
+- randevu onay ve kayıt.json
+- randevu hatirlatma.json
